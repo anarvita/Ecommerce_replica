@@ -1,5 +1,19 @@
-# Ecommerce_replica
+# Ecommerce_replica Food delivery System
 
+# Description
+ ood delivery system is an application which is based on delivering food using live swiggy api.
+
+# Functionality: 
+User can view All the food card items on once landing on website can search filter records.
+
+# Frontend tech stack
+
+React Js
+Material UI
+used functional based component
+explored class based component
+Redux use context state management 
+React router
 # read me
 
 
@@ -22,7 +36,11 @@
 - different dev and prop bundles
 
 
+<<<<<<< HEAD
    ghjgj
+=======
+   Design flow
+>>>>>>> 1c63957 (added git ignore)
 // Header
 //- logo
 // -Nav Itam
