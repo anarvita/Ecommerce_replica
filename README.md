@@ -35,12 +35,8 @@ React router
 - Https
 - different dev and prop bundles
 
-
-<<<<<<< HEAD
-   ghjgj
 =======
    Design flow
->>>>>>> 1c63957 (added git ignore)
 // Header
 //- logo
 // -Nav Itam
